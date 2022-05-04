@@ -270,6 +270,15 @@
     "endDate": "2022-07-21"
   },
   {
+    "title": "ETHSeoul",
+    "to": "https://ethseoul.org/",
+    "sponsor": null,
+    "location": "Seoul, Korea",
+    "description": "The first ETHSeoul is finally happening alongside BUIDL Asia 2022! It will be a three-day tech and community-driven event, focused on educating the Korean Ethereum community and connecting with global builders."
+    "startDate": "2022-08-05",
+    "endDate": "2022-08-07"
+  },
+  {
     "title": "ETHMexicoCity",
     "to": "https://airtable.com/shrZ89OEwQJRtXHPv/",
     "sponsor": null,
